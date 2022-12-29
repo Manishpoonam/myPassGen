@@ -1,6 +1,6 @@
 
 .box{
-   background: url(image/bg.png);
+   background: url('image/bg.png');
    background-size: cover ; 
  
 }
